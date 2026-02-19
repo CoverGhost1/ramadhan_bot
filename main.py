@@ -7,8 +7,8 @@ from telegram import Bot
 TOKEN = "7660181456:AAHmmuC6VNRQ_u4tyJHqFJ0cBlXZebugTdA"
 GROUP_ID = -1003123683403
 
-LAT = -6.9175
-LON = 106.9290
+LAT = -6.820080
+LON = 107.173859
 
 TIMEZONE = "Asia/Jakarta"
 
