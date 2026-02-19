@@ -69,5 +69,5 @@ def run():
         time.sleep(20)
 
 print("Bot running...")
-asyncio.run(send("✅ Bot Ramadhan aktif!"))
+asyncio.run(send("its from railway!"))
 run()
